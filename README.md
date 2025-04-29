@@ -1,6 +1,6 @@
 # 🏥 Healthcare Data Analysis
 
-**DATASET:**[Download here]
+**DATASET:**[Download here](https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
 
 This project focuses on analyzing healthcare data from multiple hospitals over time. It provides insights into patient demographics, doctors on call, billing information, insurance providers, admission type, admission and discharge date, medication given and test results. The final outcome includes interactive dashboards to support decision-making in hospital operations and policy planning.
 
