@@ -24,7 +24,7 @@ This project focuses on analyzing healthcare data from multiple hospitals over t
 - Tableau
   - Visualization and dashboarding
 
-## Questions/ EDA 
+## Questions/ EDA ❓
 
 - Which is the most visted hospitals in ranking?
 - Who are the most active doctors in ranking?
@@ -41,7 +41,7 @@ This project focuses on analyzing healthcare data from multiple hospitals over t
 - Inefficiency of lab results can be due to poor handling and high patient to healthcare ratio.
   
 
-## Recommendation 
+## Recommendations💻
 - Hospitals and doctors can work hand in hand with insurance providers to provide the best service to reduce high billing amount. 
 - Hospital administrations should check the effieciency of test results by making sure the lab follows all procedures to reduce faults in results.
 - Health experts should look into the diagnostic aspects of patients condition, whether related to age, gender of blood type hence improving healthcare
