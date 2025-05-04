@@ -44,6 +44,6 @@ This project focuses on analyzing healthcare data from multiple hospitals over t
 ## Recommendations💻
 - Hospitals and doctors can work hand in hand with insurance providers to provide the best service to reduce high billing amount. 
 - Hospital administrations should check the effieciency of test results by making sure the lab follows all procedures to reduce faults in results.
-- Health experts should look into the diagnostic aspects of patients condition, whether related to age, gender of blood type hence improving healthcare
+- Health experts should look into the diagnostic aspects of patients condition, whether related to age, gender or blood type hence improving healthcare
   
 
